@@ -1,0 +1,9 @@
+Building BITTOU COIN
+
+See doc/readme-qt.rst for instructions on building BITTOU COIN QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BITTOU COIN.
+
+See doc/build-*.txt for instructions on building BITTOU COIN,
+the intended-for-services, no-graphical-interface, reference
+implementation of BITTOU COIN.
